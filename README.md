@@ -10,7 +10,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :mortar_board: 매일 꾸준한 학습을 통해 성장을 목표로 하고 있습니다.<br/>
+  #### :mortar_board: 조금이라도 매일 꾸준한 학습을 통해 성장을 목표로 하고 있습니다.<br/>
   #### :fire: 더 나은 구조를 위해서 고민하고 도전하는 개발자로 성장하고 있습니다.<br/>
   #### :sunglasses: 주로 React, TypeScript, Spring Boot를 사용한 웹개발을 작성합니다.
   <br/>
