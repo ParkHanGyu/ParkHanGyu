@@ -66,6 +66,8 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <!--Notion-->
+  <img src="https://img.shields.io/badge/Figma-FF4F8B?style=flat-square&logo=figma&logoColor=white"/>
   <br/>
   <br/>
   
