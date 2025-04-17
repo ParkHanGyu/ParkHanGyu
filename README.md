@@ -42,11 +42,13 @@
   ### :floppy_disk: Database
   <!--MariaDB-->
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDB&logoColor=white"/>
+  <!--H2-->
+  <img src="https://img.shields.io/badge/H2 Database-000000?style=flat-square&logo=h2database&logoColor=white"/>
   <br/>
   
   ### :wrench: Development Tools
   <!--Visual Studio Code-->
-  <img src="https://img.shields.io/badge/Visual Studio Code-007396?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007396?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <!--IntelliJ IDEA-->
   <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>
   <br/>
@@ -60,8 +62,6 @@
 
 
   ### :speech_balloon: Communication
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <!--Discord-->
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   <!--Notion-->
