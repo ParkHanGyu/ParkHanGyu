@@ -66,8 +66,12 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-    <!--Notion-->
+  <!--Notion-->
   <img src="https://img.shields.io/badge/Figma-FF4F8B?style=flat-square&logo=figma&logoColor=white"/>
+  <!--tistory-->
+  <a href="https://qkrgksrl0033.tistory.com/23" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=tistory&logoColor=white"/>
+	</a>
   <br/>
   <br/>
   
